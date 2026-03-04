@@ -10,7 +10,7 @@ Big time mechanical watches aficionado. Aspiring watchmaker.
 
 ### What I work with
 
-**Frontend** — React, React Native, Angular, TypeScript, Three.js/canvas, WebGL, SVG, CSS, SCSS
+**Frontend** — React, React Native, Angular, TypeScript, Three.js/canvas, CSS, SCSS
 
 **Backend** — Laravel, Node.js, Python, REST APIs
 
